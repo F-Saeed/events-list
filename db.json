@@ -19,13 +19,5 @@
       "location": "Peshawar, KPK"
     }
   ],
-  "registrations": [
-    {
-      "id": "5b59",
-      "name": "Faran Saeed",
-      "dateOfBirth": "2023-11-22",
-      "address": "abc",
-      "eventId": 2
-    }
-  ]
+  "registrations": []
 }

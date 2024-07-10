@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Tech Conf",
+      "date": "2024-09-15",
+      "location": "Lahore, Punjab"
+    },
+    {
+      "id": "2",
+      "name": "Tech Conf 2",
+      "date": "2024-09-16",
+      "location": "Karachi, Sindh"
+    },
+    {
+      "id": "3",
+      "name": "Tech Conf 3",
+      "date": "2024-09-17",
+      "location": "Peshawar, KPK"
+    }
+  ],
+  "registrations": [
+    {
+      "id": "5b59",
+      "name": "Faran Saeed",
+      "dateOfBirth": "2023-11-22",
+      "address": "abc",
+      "eventId": 2
+    }
+  ]
+}
